@@ -15,13 +15,13 @@
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
-	Inpute_pic：
+	    Inpute_pic：
 
-![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/lena.bmp)
+    ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/lena.bmp)
 
-	Results_pic：
+	    Results_pic：
 
-![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/Ordered%20Dithering.bmp)
+    ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/Ordered%20Dithering.bmp)
 
 <h3>Error Diffusion：
 
