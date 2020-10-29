@@ -13,16 +13,16 @@ HW01:
 	
 	    ↑Ref. ： 
 
-	https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
+		https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
 
         Direct binary search：/Direct binary search/HW01_DBS.m
 
 	    ↑Ref. ： 
 
-	https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
+		https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
 
         Dot-diffusion：/Dot-diffusion/HW01_dotdiff.m
 
 	    ↑Ref. ： 
 
-	http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
+		http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
