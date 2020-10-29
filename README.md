@@ -2,7 +2,8 @@
 
 <h1>HW01:<h1>
 
-    <h5>code：
+    <h5>
+	code：
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
