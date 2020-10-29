@@ -17,11 +17,11 @@
 
 	    Inpute_pic：
 
-    ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/lena.bmp)
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/lena.bmp)
 
 	    Results_pic：
 
-    ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/Ordered%20Dithering.bmp)
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/Ordered%20Dithering.bmp)
 
 <h3>Error Diffusion：
 
