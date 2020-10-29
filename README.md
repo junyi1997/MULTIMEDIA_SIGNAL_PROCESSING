@@ -11,7 +11,7 @@ HW01:
 			 /Error Diffusion/ED-Jarvis-1976.m              (Jarvis-1976)
 			 /Error Diffusion/ED-Stucki-1981.m              (Stucki-1981)
 	
-	    ↑Ref. ： [https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation](https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation)
+	    [↑Ref. ：] (https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation)
 
         Direct binary search：/Direct binary search/HW01_DBS.m
 
