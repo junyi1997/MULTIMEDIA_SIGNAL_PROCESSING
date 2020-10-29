@@ -2,7 +2,7 @@
 
 <h1>HW01:<h1>
 
-    code：
+    <h5>code：
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
@@ -20,3 +20,4 @@
         Dot-diffusion：/Dot-diffusion/HW01_dotdiff.m
 
 	    ↑Ref. ： http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
+<h5>
