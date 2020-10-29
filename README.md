@@ -15,10 +15,6 @@
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
-Inpute_pic：
-
-![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/lena.bmp)
-
 Results_pic：
 
 ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Ordered%20Dithering/Ordered%20Dithering.bmp)
@@ -30,24 +26,32 @@ Results_pic：
 			     /Error Diffusion/ED-Jarvis-1976.m              (Jarvis-1976)
 			     /Error Diffusion/ED-Stucki-1981.m              (Stucki-1981)
 
-	Inpute_pic：![image](picture or gif url)
+Results_pic_Floyd-Steinberg-1975：
 
-	Results_pic：![image](picture or gif url)
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Error%20Diffusion/Error%20Diffusion-Floyd-Steinberg-1975.bmp)
+
+Results_pic_Jarvis-1976：
+
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Error%20Diffusion/Error%20Diffusion-Jarvis-1976.bmp)
+
+Results_pic_Stucki-1981：
+
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Error%20Diffusion/Error%20Diffusion-Stucki-1981.bmp)
+
 
 <h3>Direct binary search：
 	    
         Direct binary search：/Direct binary search/HW01_DBS.m
 
-	Inpute_pic：![image](picture or gif url)
+Results_pic：
 
-	Results_pic：![image](picture or gif url)
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Direct%20binary%20search/Direct%20binary%20search%20halftone.bmp)
 
 <h3>Dot-diffusion：
 
         Dot-diffusion：/Dot-diffusion/HW01_dotdiff.m
 
-	Inpute_pic：![image](picture or gif url)
-
-	Results_pic：![image](picture or gif url)
+Results_pic：
+![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Dot-diffusion/Halftoned%20Image.bmp)
 
 	    
