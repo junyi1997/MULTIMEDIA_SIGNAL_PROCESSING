@@ -357,3 +357,4 @@ subplot(121);
 imshow(in_img);title('Input Image');
 subplot(122);
 imshow(halftone_img);title('Ordered Dithering');
+imwrite(halftone_img,'Ordered Dithering.bmp');

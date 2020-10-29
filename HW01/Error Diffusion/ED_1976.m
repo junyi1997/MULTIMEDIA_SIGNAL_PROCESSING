@@ -144,7 +144,7 @@ end
                               
 halftone_img = y;
 figure;imshow(halftone_img);title('Jarvis Error Diffusion');
-% imwrite(halftone_img,'lena_Jarvis.bmp');
+imwrite(halftone_img,'Error Diffusion-Jarvis-1976.bmp');
 
 Gauss_img = imgaussfilt(y,1.3); %GaussianFilter
 HPSNR = psnr(Gauss_img,x,255)

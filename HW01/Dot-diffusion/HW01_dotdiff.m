@@ -24,3 +24,4 @@ subplot(121);
 imshow(in_img);title('Input Image');
 subplot(122);
 imshow(halftone_img);title('Floyd Halftoned Image');
+imwrite(halftone_img,'Halftoned Image.bmp');

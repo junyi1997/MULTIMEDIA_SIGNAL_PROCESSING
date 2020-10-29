@@ -59,7 +59,7 @@ end
 
 
 figure;imshow(y);title('Floyd Error Diffusion');
-% imwrite(y,'lena_Floyd.bmp');
+imwrite(y,'Error Diffusion-Floyd-Steinberg-1975.bmp');
 
 Gauss_img = imgaussfilt(y,1.3); %GaussianFilter
 HPSNR = psnr(Gauss_img,x,255)

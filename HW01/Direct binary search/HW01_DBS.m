@@ -98,3 +98,4 @@ subplot(121);
 imshow(im_in);title('Input Image');
 subplot(122);
 imshow(dst);title('Direct binary search halftone');
+imwrite(dst,'Direct binary search halftone.bmp');

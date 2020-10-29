@@ -142,7 +142,7 @@ end
                               
 halftone_img = y;
 figure;imshow(halftone_img);title('Stucki Error Diffusion');
-% imwrite(halftone_img,'lena_Stucki.bmp');
+imwrite(halftone_img,'Error Diffusion-Stucki-1981.bmp');
 
 Gauss_img = imgaussfilt(y,1.3); %GaussianFilter
 HPSNR = psnr(Gauss_img,x,255)
