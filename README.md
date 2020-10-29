@@ -16,7 +16,7 @@
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
 
-        Error Diffusion：/Error Diffusion/HW01_ED.m                 (三種方法合併)
+        Error Diffusion：/Error Diffusion/HW01_ED.m                     (三種方法合併)
 			     /Error Diffusion/ED-Floyd-Steinberg-1975.m     (Floyd-Steinberg-1975)
 			     /Error Diffusion/ED-Jarvis-1976.m              (Jarvis-1976)
 			     /Error Diffusion/ED-Stucki-1981.m              (Stucki-1981)
