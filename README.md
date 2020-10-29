@@ -1,8 +1,8 @@
 "# MULTIMEDIA_SIGNAL_PROCESSING" 
 
-HW01:
+#<h1>HW01:
 
-	Ref.
+#<h1>Ref.
 
 		Ordered Dithering & Error Diffusion Ref. ： https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
 
@@ -11,7 +11,7 @@ HW01:
 		Dot-diffusion Ref. ：http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
 
 
-	code：
+#<h1>code：
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
