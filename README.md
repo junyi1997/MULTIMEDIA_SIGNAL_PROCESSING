@@ -11,18 +11,12 @@ HW01:
 			 /Error Diffusion/ED-Jarvis-1976.m              (Jarvis-1976)
 			 /Error Diffusion/ED-Stucki-1981.m              (Stucki-1981)
 	
-	    ↑Ref. ： 
-
-		https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
+	    Ref. ： https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
 
         Direct binary search：/Direct binary search/HW01_DBS.m
 
-	    ↑Ref. ： 
-
-		https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
+	    Ref. ： https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
 
         Dot-diffusion：/Dot-diffusion/HW01_dotdiff.m
 
-	    ↑Ref. ： 
-
-		http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
+	    Ref. ：http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
