@@ -1,6 +1,11 @@
-clc;clear all;close all;
-im_in=imread('lena.bmp');
-im=double(im_in);
+%Programmed By: Sankarasrinivasan S
+%Multimedia Signal Processing Lab, Dept. of Elec Engg. NTUST
+%Oct 2016
+
+%Efficient Direct Binary search halftoning
+
+function [dst]=EDBS(im)
+im=double(im);
 %Initiation
 [rows cols]=size(im);
 fs=7;    %Gaussian filter size
@@ -90,12 +95,5 @@ end
     end
 
 end
-% dst=dst;
-% imshow(dst);
-
-% figure;
-subplot(121);
-imshow(im_in);title('Input Image');
-subplot(122);
-imshow(dst);title('Direct binary search halftone');
-imwrite(dst,'Direct binary search halftone.bmp');
+dst=dst;
+end
