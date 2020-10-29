@@ -2,14 +2,16 @@
 
 HW01:
 
+	Ref.
+
+		Ordered Dithering & Error Diffusion Ref. ： https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
+
+		Direct binary search Ref. ： https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
+
+		Dot-diffusion Ref. ：http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
+
+
 	code：
-
-	Ordered Dithering & Error Diffusion Ref. ： https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
-
-	Direct binary search Ref. ： https://ww2.mathworks.cn/matlabcentral/fileexchange/25302-image-halftoning-by-floyd-s-method
-
-	Dot-diffusion Ref. ：http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
-
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
