@@ -52,6 +52,7 @@ Results_pic：
         Dot-diffusion：/Dot-diffusion/HW01_dotdiff.m
 
 Results_pic：
+
 ![image](https://github.com/junyi1997/MULTIMEDIA_SIGNAL_PROCESSING/blob/main/HW01/Dot-diffusion/Halftoned%20Image.bmp)
 
 	    
