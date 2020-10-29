@@ -1,9 +1,7 @@
-%Code by : Chen Xue Wen
-
-%FloydED
 clc;clear all;close all;
 INPUT = 'lena.bmp';
 in_img = imread(INPUT);
+% imshow(in_img);title('Input Image');
 
 inImg = double(in_img);
 [M,N] = size(inImg);
@@ -59,12 +57,9 @@ for row = 1: +1 : N
     end
 end
 
+
+figure;imshow(y);title('Floyd Error Diffusion');
+% imwrite(y,'lena_Floyd.bmp');
+
 Gauss_img = imgaussfilt(y,1.3); %GaussianFilter
 HPSNR = psnr(Gauss_img,x,255)
-
-
-% figure;
-subplot(121);
-imshow(in_img);title('Input Image');
-subplot(122);
-imshow(y);title('Floyd Error Diffusion');

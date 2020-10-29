@@ -356,4 +356,4 @@ HPSNR = psnr(Gauss_img,x,255)
 subplot(121);
 imshow(in_img);title('Input Image');
 subplot(122);
-imshow(halftone_img);title('Classical 4 Ordered Dithering');
+imshow(halftone_img);title('Ordered Dithering');
