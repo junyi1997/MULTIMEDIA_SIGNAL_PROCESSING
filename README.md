@@ -2,7 +2,7 @@
 
 <h1>HW01:
 
-<h1>Ref.
+<h3>Ref.
 
 		Ordered Dithering & Error Diffusion Ref. ： https://github.com/Chen-XueWen/Half-Toning-Matlab-Implementation
 
@@ -11,7 +11,7 @@
 		Dot-diffusion Ref. ：http://imageprocessing-sankarsrin.blogspot.com/2019/05/direct-binary-search-halftoning-dbs.html
 
 
-<h1>code：
+<h3>Code：
 
         Ordered Dithering：/Ordered Dithering/HW01_OD.m
 
