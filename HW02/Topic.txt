@@ -1,0 +1,15 @@
+Problem 1:
+Implementation of Huffman Coding
+
+Participants can do simple implementation for alphabets with any probability vector as presented in the class.
+
+
+Problem 2:
+
+Linde-Buzo-Gray (LBG) algorithm to perform Vector Quantization or any variants of LBG can also be considered for implementation.
+
+
+Participants can work on any image data-sets (even for a single image is fine) for training and implementation.
+
+
+Programming language - MATLAB, C++, Python & so on.
